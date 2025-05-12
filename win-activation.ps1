@@ -1,5 +1,3 @@
-# Check massgrave.dev for more details
-
 write-host
 Write-Host "The current command (irm https://massgrave.dev/get | iex) will be retired in the future."
 Write-Host -ForegroundColor Green "Use the new command (irm https://get.activated.win | iex) moving forward."
